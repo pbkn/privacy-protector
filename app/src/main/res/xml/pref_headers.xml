@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference
+        android:defaultValue="true"
+        android:icon="@drawable/ic_camera"
+        android:key="@string/pref_camera_key"
+        android:summaryOff="@string/pref_off"
+        android:summaryOn="@string/pref_on"
+        android:title="@string/pref_camera_title" />
+    <SwitchPreference
+        android:defaultValue="true"
+        android:icon="@drawable/ic_mic_none_black_24dp"
+        android:key="@string/pref_mic_key"
+        android:summaryOff="@string/pref_off"
+        android:summaryOn="@string/pref_on"
+        android:title="@string/pref_mic_title" />
+    <SwitchPreference
+        android:defaultValue="true"
+        android:icon="@drawable/ic_touch_app_black_24dp"
+        android:key="@string/pref_vol_buttons_key"
+        android:summaryOff="@string/pref_off"
+        android:summaryOn="@string/pref_on"
+        android:title="@string/pref_vol_buttons_title" />
+</PreferenceScreen>
