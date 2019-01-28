@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "780321186776",
+    "firebase_url": "https://pp-192801.firebaseio.com",
+    "project_id": "pp-192801",
+    "storage_bucket": "pp-192801.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780321186776:android:4eebbf379d96082b",
+        "android_client_info": {
+          "package_name": "com.whysurfswim.pp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780321186776-qojblaplqpc8voemke460iidm71591l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.whysurfswim.pp",
+            "certificate_hash": "4839e92b961e0e162c6390b05857cbe69588fe48"
+          }
+        },
+        {
+          "client_id": "780321186776-mvmosqa2a97454cfa3cr2jdh517mt8i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2tiFGTowveG8JVLhT_lTE15I4-ktNpYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780321186776-mvmosqa2a97454cfa3cr2jdh517mt8i9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

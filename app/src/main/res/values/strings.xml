@@ -12,6 +12,6 @@
     <string name="pref_mic_key">mic_switch</string>
     <string name="pref_mic_title">Microphone</string>
     <string name="pref_vol_buttons_key">vol_buttons_switch</string>
-    <string name="pref_vol_buttons_title">Volume Buttons</string>
+    <string name="pref_vol_buttons_title">Volume Buttons (Beta)</string>
     <string name="pref_vol_disabled">Volume Buttons are disabled</string>
 </resources>
