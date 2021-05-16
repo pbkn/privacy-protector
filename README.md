@@ -3,6 +3,7 @@ The main objective of this application is to protect application user from malic
 
 Mobile application which contains implementations of Device Administrator in Fragment Layout.
 
+Google play store link - https://play.google.com/store/apps/details?id=com.whysurfswim.pp
 # Disabling camera
 It contains necessary permissions and code to restrict camera functionalities in phone.
 
